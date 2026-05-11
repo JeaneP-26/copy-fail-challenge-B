@@ -1,0 +1,11 @@
+=== HITO 2: EXPLOIT EXITOSO ===
+Fecha: Mon May 11 13:38:06 UTC 2026
+Hostname: codespaces-c56087
+Kernel: 6.8.0-1044-azure
+Usuario POST-EXPLOIT:
+root
+ID:
+uid=0(root) gid=0(root) groups=0(root)
+
+SHA256 del exploit:
+d401e7d1c00605749d6c617ace73ab20a762b72e41c2e1590331596e38219a61  copy_fail_exp.py
