@@ -1,0 +1,9 @@
+=== HITO 3: MITIGACIÓN TEMPORAL ===
+Fecha: Mon May 11 13:48:04 UTC 2026
+Hostname: codespaces-c56087
+
+Mitigación aplicada:
+install algif_aead /bin/false
+
+Nota:
+El entorno no incluye rmmod/modprobe, se aplicó mitigación persistente.
