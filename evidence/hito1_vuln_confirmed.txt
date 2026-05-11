@@ -1,0 +1,9 @@
+=== HITO 1: KERNEL VULNERABLE CONFIRMADO ===
+Fecha: Sun May 11 14:30:00 UTC 2026
+Kernel: 6.12.0
+Usuario:
+student
+ID:
+uid=1000(student) gid=1000(student)
+Nota:
+No fue posible acceder a /proc/modules en esta VM minimalista.
